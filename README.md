@@ -28,8 +28,8 @@ public class Demo {
 #### 2.编译并运行
 类Uinx
 ```bash
-$ javac -cp .:quick-server-1.4.jar Demo.java
-$ nohup java -cp .:quick-server-1.4.jar Demo
+$ javac -cp .:quick-core-2.1.0.jar Demo.java
+$ nohup java -cp .:quick-core-2.1.0.jar Demo
 ```
 
 Windows
