@@ -34,8 +34,8 @@ $ nohup java -cp .:quick-core-2.1.0.jar Demo
 
 Windows
 ```bash
-C:\Users\xxx>javac -encoding UTF-8 -cp .;quick-server-1.4.jar Demo.java
-C:\Users\xxx>javaw -Dfile.encoding=UTF-8 -cp .;quick-server-1.4.jar Demo
+C:\Users\xxx>javac -encoding UTF-8 -cp .;quick-core-2.1.0.jar Demo.java
+C:\Users\xxx>javaw -Dfile.encoding=UTF-8 -cp .;quick-core-2.1.0.jar Demo
 ```
 
 ## 它干了什么
